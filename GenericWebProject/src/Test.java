@@ -1,10 +1,9 @@
-/****
- * Test in line 2 
+/**
+ * commit message 2
+ * commit message 3
+ * commit message 4
  */
-/****
- * comment line 3
- * 
- */
+
 import java.io.IOException;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
